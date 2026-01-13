@@ -19,7 +19,7 @@ spec:
   template:
     metadata:
       labels:
-        role: api
+        role: apis
     spec:
       imagePullSecrets:
       - name: ecr-registry-secret
