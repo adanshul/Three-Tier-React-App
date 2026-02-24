@@ -62,7 +62,7 @@ Three-Tier-React-App/
 │   └── (Terraform code for provisioning Jenkins)
 └── Kubernetes-Manifests-file/
     └── (Kubernetes deployments and services)
-
+```
 
 ---
 
@@ -233,3 +233,4 @@ Contributions are welcome. Please open an issue or submit a pull request for imp
 
 
 This project is licensed under the MIT License.
+
